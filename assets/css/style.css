@@ -154,7 +154,14 @@ header {
     background: rgba(0, 0, 0, 0.2);
     height: 120px;
 }
-
+/*--------------------------------------------Three reasons section*/
+.three-reasons-icon {
+    font-size: 26px;
+    color: #e67e22;
+}
+.three-reasons-heading {
+    margin-bottom: 15px;
+}
 /* ----------------------------------------Footer */
 
 footer {
